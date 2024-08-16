@@ -13,6 +13,7 @@ Classroom Overview: Students can view other students in their classroom.
 
 # Tech Stack
 Frontend: Built with React.js using Bootstrap for styling.
+
 Backend: Powered by Node.js, Express.js, and MongoDB for the database.
 
 # Deployment Link
