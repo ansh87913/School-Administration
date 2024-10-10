@@ -23,5 +23,10 @@ Frontend: Built with React.js using Bootstrap for styling.
 
 Backend: Powered by Node.js, Express.js, and MongoDB for the database.
 
+# Login Credentials
+Principal - principal@classroom.com / Admin
+Teacher - emily.clark@example.com / password123
+Student - isla.fisher@example.com / password123
+
 # Deployment Link
 https://school-administration-n64g.vercel.app/login
